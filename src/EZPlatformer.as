@@ -9,6 +9,7 @@ package
 		public function EZPlatformer()
 		{
 			super(320,240,PlayState,2);
+			forceDebugger = true;
 		}
 	}
 }
